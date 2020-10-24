@@ -54,11 +54,5 @@ preloader = ""
 URL = "#"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "#face_workout"
 icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
