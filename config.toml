@@ -51,8 +51,5 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
 URL = "#face_workout"
 icon = "ti-instagram"
