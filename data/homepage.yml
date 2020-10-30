@@ -30,7 +30,7 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: 3 STEPS APROACH TO GET RESULTS
+  title: Experience
   item:
   - logo: images/experience/icon-1.png
     title: Junior UX Designer
