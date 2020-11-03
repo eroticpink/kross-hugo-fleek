@@ -33,9 +33,10 @@ experience:
   title: '3 STEPS APROACH '
   item:
   - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+    title: " Change your posture"
+    company: " If you have a correct posture, your neck becomes longer and your face
+      gets more of a V shape."
+    duration: step 1
   - logo: images/experience/icon-2.png
     title: UX & UI Designer
     company: AUGMEDIX
