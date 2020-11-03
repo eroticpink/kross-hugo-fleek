@@ -17,8 +17,8 @@ skill:
   - title: CLEAN FACE
     progress: 100%
     color: "#fdb157"
-  - title: TRAINING Tools
-    progress: 30%
+  - title: correct exercise
+    progress: 100%
     color: "#9373e8"
   - title: MIRROR
     progress: 100%
