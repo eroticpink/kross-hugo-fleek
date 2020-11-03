@@ -8,7 +8,7 @@ author_signature: images/about/signature.png
 ---
 Are you thinking on using botox or injectables?
 
-Would you like to remove: crow's feet beside the eyes, the nasal-labial fold, the vertical folds around the mouth,the frown lines and the second chin?
+Would you like to remove crow's feet beside the eyes, the nasal-labial fold, the vertical folds around the mouth,the frown lines and the second chin?
 
 Would you like to have a full mouth and fleshy cheeks ?
 
