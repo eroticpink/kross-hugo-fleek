@@ -18,7 +18,7 @@ skill:
   item:
   - title: DISIPLINE
     progress: 50%
-    color: ''
+    color: "#9473e6"
   - title: CLEAN FACE
     progress: 100%
     color: "#fdb157"
