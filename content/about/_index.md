@@ -8,18 +8,6 @@ author_signature: images/about/signature.png
 ---
 Are you looking for a **natural alternative** to botox or injectables?
 
-Would you like to remove crow's feet beside the eyes, the nasal-labial fold, the vertical folds around the mouth,the frown lines and the second chin?
-
-Would you like to have a full mouth and fleshy cheeks ?
-
-**This is all possible with exercises for the face muscles.**
-
-Work out 5-7 minutes a day.
-
-By starting at the age of 25 you will retain a wrinkle free face.
-
-By starting at the age of 45/50, within 2 to 3 months you will look 7 years younger.
-
 ## **F.A.Q.**
 
 **DOES  A FACE-WORKOUT CHANGE THE QUALITY OF MY SKIN?**
@@ -32,7 +20,7 @@ You can't see the effect after one training it takes at least 10 days. Without d
 
 **IS IT POSSIBLE TO OVERTRAIN YOUR FACE MUSCLES?**
 
-It is not possible to overtrain your face muscles, because physiologically face muscles differ from body muscles and they are without fascias. If you are not sure or it doesn't feel comfortable while doing face-gym please consult your doctor.
+It is not possible to overtrain your face muscles, because physiologically face muscles differ from body muscles and they are without fascias. If you are not sure or it doesn't feel comfortable while doing the exercises please consult your doctor.
 
 **WHAT IF I'VE HAD INJECTABLES ?**
 
