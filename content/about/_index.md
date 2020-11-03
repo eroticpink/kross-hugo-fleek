@@ -13,3 +13,5 @@ author_signature: images/about/signature.png
 This is all possible with exercises for the face muscles. 
 
 Give yourself 5-7 minutes a day. Press the play button of the video and start the way to a wrinkle free & youthful look.
+
+By starting practicing at age of 25 you will retain a wrinkle free face. By starting practicing at age of 45/50, within 2 to 3 months you will look 10 years yonger.
