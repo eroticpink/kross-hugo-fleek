@@ -14,12 +14,12 @@ skill:
   enable: true
   title: 'You need '
   item:
-  - title: TRAINING Tools
-    progress: 30%
-    color: "#9373e8"
   - title: CLEAN FACE
     progress: 100%
     color: "#fdb157"
+  - title: TRAINING Tools
+    progress: 30%
+    color: "#9373e8"
   - title: MIRROR
     progress: 100%
     color: "#9473e6"
