@@ -14,7 +14,7 @@ Would you like to have a full mouth and fleshy cheeks ?
 
 **This is all possible with exercises for the face muscles.**
 
-Workout 5-7 minutes a day and start the way to a wrinkle free & youthful look.
+Work out 5-7 minutes a day.
 
 By starting at the age of 25 you will retain a wrinkle free face.
 
@@ -22,7 +22,7 @@ By starting at the age of 45/50, within 2 to 3 months you will look 7 years youn
 
 ## **F.A.Q.**
 
-**DOES FACE-GYM CHANGE THE QUALITY OF MY SKIN?**
+**DOES  A FACE-WORKOUT CHANGE THE QUALITY OF MY SKIN?**
 
 Face-gym does change the skin from inside out as a result of the better blood circulation and improvement of the capillar structure of the skin. The skin breathes bettter, has more nurishment and a better colour.
 
@@ -36,8 +36,8 @@ It is not possible to overtrain your face muscles, because physiologically face 
 
 **WHAT IF I'VE HAD INJECTABLES ?**
 
-If clients have recently had injectables they must wait 2 weeks before starting any Face-Gym exercises.
+If clients have recently had injectables they must wait 2 weeks before starting any face exercises.
 
 **WHAT IF I'VE RECENTY HAD FILLERS OR PEELS?**
 
-If clients have recently had any Fillers or Chemical Peels they must wait 4 weeks before starting any Face-Gym exercises.
+If clients have recently had any Fillers or Chemical Peels they must wait 4 weeks before starting any face exercises.
