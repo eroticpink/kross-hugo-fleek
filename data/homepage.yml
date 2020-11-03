@@ -64,10 +64,11 @@ service:
   enable: true
   title: Online training
   item:
-  - title: UI Design
+  - title: Duration 63 days
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |2-
+       the exercises are simple.
+      After: 30 days 》BEFORE/AFTER effect.
     highlighted: false
   - title: UX Design
     icon: ti-vector
