@@ -20,6 +20,8 @@ By starting at the age of 25 you will retain a wrinkle free face.
 
 By starting at the age of 45/50, within 2 to 3 months you will look 7 years younger.
 
+## **F.A.Q.**
+
 **DOES FACE-GYM CHANGE THE QUALITY OF MY SKIN?**
 
 Face-gym does change the skin from inside out as a result of the better blood circulation and improvement of the capillar structure of the skin. The skin breathes bettter, has more nurishment and a better colour.
