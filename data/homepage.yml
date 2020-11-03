@@ -3,11 +3,11 @@ banner:
   title: 5 minuntes a DAY
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: "FACE WORKOUT: \nIs developed to train the face muscles and it suits any
+    age. By starting practicing at age of 25 you will retain a wrinkle free face.
+    By starting practicing at age of 45/50, within 2 to 3 months you wil look 10 years
+    yonger. The different face exercises give you a fresh appearance and a lifted
+    face while saving money on expensive beauty treatments."
   button:
     enable: true
     label: know more
