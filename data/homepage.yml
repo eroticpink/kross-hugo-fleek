@@ -28,7 +28,7 @@ skill:
     color: "#9473e6"
 experience:
   enable: true
-  title: '3 STEPS APROACH '
+  title: '3 STEPS Approach '
   item:
   - logo: images/experience/icon-1.png
     title: " Change your posture"
