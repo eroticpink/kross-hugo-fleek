@@ -6,7 +6,7 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-Are you thinking on using botox or injectables?
+Are you looking for a **natural alternative** to botox or injectables?
 
 Would you like to remove crow's feet beside the eyes, the nasal-labial fold, the vertical folds around the mouth,the frown lines and the second chin?
 
