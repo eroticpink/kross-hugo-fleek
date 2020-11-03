@@ -16,13 +16,13 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: CLEAN FACE
+    progress: 100%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: MIRROR
+    progress: 100%
     color: "#9473e6"
-  - title: After Effects
+  - title: 5 MINUTES
     progress: 80%
     color: "#bdecf6"
   - title: Web App
