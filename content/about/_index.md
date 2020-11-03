@@ -6,7 +6,7 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-Are you thinking on using botox?
+Are you thinking on using botox or injectables?
 
 **Would you like to have** a full mouth, full cheeks and V shape face?
 
@@ -14,6 +14,6 @@ Are you thinking on using botox?
 
 This is all possible with exercises for the face muscles. 
 
-Give yourself 5-7 minutes a day. Press the play button of the video and start the way to a wrinkle free & youthful look.
+Workout 5-7 minutes a day and start the way to a wrinkle free & youthful look.
 
 By starting practicing at age of 25 you will retain a wrinkle free face. By starting practicing at age of 45/50, within 2 to 3 months you will look 7 years younger.
