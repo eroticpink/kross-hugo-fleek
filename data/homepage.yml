@@ -15,7 +15,7 @@ skill:
   title: 'You need '
   item:
   - title: Clean face
-    progress: 100%
+    progress: 90%
     color: "#fdb157"
   - title: The right exercise
     progress: 100%
