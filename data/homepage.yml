@@ -74,10 +74,9 @@ service:
     icon: ti-vector
     content: every day
     highlighted: true
-  - title: Interaction Design
+  - title: Interaction Access
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: you recieve a link in your email box
     highlighted: false
 portfolio:
   enable: false
