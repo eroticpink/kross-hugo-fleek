@@ -10,6 +10,8 @@ A **natural alternative** to botox and injectables.
 
 Lifetime knowledge.
 
+![](/images/aging-static-website.png)
+
 ## **F.A.Q.**
 
 **DOES  A FACE-WORKOUT CHANGE THE QUALITY OF MY SKIN?**
