@@ -26,7 +26,7 @@ It is not possible to overtrain your face muscles, because physiologically face 
 
 **WHAT IF I'VE HAD INJECTABLES ?**
 
-If clients have recently had injectables they must wait 2 weeks before starting any face exercises.
+If clients have recently had injectables they must wait 4 weeks before starting any face exercises.
 
 **WHAT IF I'VE RECENTY HAD FILLERS OR PEELS?**
 
