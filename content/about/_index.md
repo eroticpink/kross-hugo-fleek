@@ -1,13 +1,15 @@
 ---
-title: "About"
-date: 2019-05-12T12:14:34+06:00
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
+title: About
+date: 2019-05-12T12:14:34.000+06:00
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+**Would you like to have** a full mouth, full cheeks and V shape face?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Would you like to remove:** crow's feet beside the eyes, the nasal-labial fold, the vertical folds around the mouth,the frown lines and the second chin?
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+This is all possible with exercises for the face muscles. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Give yourself 5-7 minutes a day. Press the play button of the video and start the way to a wrinkle free & youthful look.
