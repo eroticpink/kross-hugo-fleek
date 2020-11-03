@@ -62,7 +62,7 @@ education:
     academy: The skin breathes bettter, has more nurishment and a better colour.
 service:
   enable: true
-  title: Services
+  title: Online training
   item:
   - title: UI Design
     icon: ti-palette
