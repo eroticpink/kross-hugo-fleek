@@ -74,9 +74,9 @@ service:
     icon: ti-vector
     content: every day
     highlighted: true
-  - title: Access
+  - title: Adjustments
     icon: ti-panel
-    content: you recieve a link in your email box
+    content: according to your needs
     highlighted: false
 portfolio:
   enable: false
