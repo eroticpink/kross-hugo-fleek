@@ -6,7 +6,7 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-A **natural alternative** to botox or injectables.
+A **natural alternative** to botox and injectables.
 
 Lifetime knowledge.
 
@@ -14,7 +14,7 @@ Lifetime knowledge.
 
 **DOES  A FACE-WORKOUT CHANGE THE QUALITY OF MY SKIN?**
 
-Face-gym does change the skin from inside out as a result of the better blood circulation and improvement of the capillar structure of the skin. The skin breathes bettter, has more nurishment and a better colour.
+Yes, it does change the skin from inside out as a result of the better blood circulation and improvement of the capillar structure of the skin. The skin breathes bettter, has more nurishment and a better colour.
 
 **CAN YOU SEE THE EFFECT AFTER ONE TRAINING?**
 
