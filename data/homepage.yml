@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: DISIPLINE
+    progress: 50%
+    color: ''
   - title: CLEAN FACE
     progress: 100%
     color: "#fdb157"
@@ -25,9 +28,6 @@ skill:
   - title: 5 MINUTES
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
-    color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
