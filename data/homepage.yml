@@ -47,9 +47,10 @@ education:
   enable: true
   title: FACE IMPROVEMENTS
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
+  - title: WRINKLES
+    year: "1"
+    academy: 'remove: crow''s feet beside the eyes, the nasal-labial fold,  the vertical
+      folds around the mouth,the frown lines'
   - title: Honours in Fine Arts
     year: "2004"
     academy: Harvard University
