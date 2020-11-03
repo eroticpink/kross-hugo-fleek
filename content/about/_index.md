@@ -8,7 +8,7 @@ author_signature: images/about/signature.png
 ---
 A **natural alternative** to botox and injectables.
 
-Lifetime knowledge.
+Lifetime knowledge.![](/images/aging-static-website.png)
 
 ## **F.A.Q.**
 
@@ -31,5 +31,3 @@ If clients have recently had injectables they must wait 4 weeks before starting 
 **WHAT IF I'VE RECENTY HAD FILLERS OR PEELS?**
 
 If clients have recently had any Fillers or Chemical Peels they must wait 4 weeks before starting any face exercises.
-
-![](/images/aging-static-website.png)
