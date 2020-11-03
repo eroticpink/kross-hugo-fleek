@@ -13,8 +13,7 @@ work_process:
       tempor incididunt ut labore et dolore magna aliqua.
   - title: " Get training adjustments"
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: according to your needs
 team:
   enable: false
   title: My Team
