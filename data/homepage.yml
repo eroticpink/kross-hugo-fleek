@@ -14,6 +14,9 @@ skill:
   enable: true
   title: 'You need '
   item:
+  - title: 5 minutes
+    progress: 80%
+    color: "#bdecf6"
   - title: Clean face
     progress: 90%
     color: "#fdb157"
@@ -23,9 +26,6 @@ skill:
   - title: A mirror
     progress: 100%
     color: "#9473e6"
-  - title: 5 minutes
-    progress: 80%
-    color: "#bdecf6"
 experience:
   enable: true
   title: '3 STEPS APROACH '
