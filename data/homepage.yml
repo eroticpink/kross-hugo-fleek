@@ -43,9 +43,8 @@ experience:
     duration: step 2
   - logo: images/experience/icon-1.png
     title: 'Shape your face at night '
-    company: When you dream at night you have emotions, you use  your face muscles
-      (for exampe frowning). If you block the muscle movement, the muscle will stay
-      relax at night. This will help to soften the wrinkles.
+    company: block the muscle movement while you sleep. This will help to soften the
+      wrinkles.
     duration: step 3
 education:
   enable: true
