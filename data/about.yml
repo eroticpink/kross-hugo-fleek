@@ -1,13 +1,13 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: How it works
   item:
-  - title: Research and Plan
+  - title: Buy the online training
     icon: images/icons/plan.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-  - title: Design and Develop
+  - title: Get a link in your email box
     icon: images/icons/design.png
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
