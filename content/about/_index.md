@@ -8,7 +8,9 @@ author_signature: images/about/signature.png
 ---
 A **natural alternative** to botox and injectables.
 
-Lifetime knowledge.![](/images/aging-static-website.png)
+Lifetime knowledge.
+
+![](/images/aging-static-website.png)
 
 ## **F.A.Q.**
 
