@@ -12,7 +12,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: YOU NEED
+  title: 'You need '
   item:
   - title: TRAINING Tools
     progress: 30%
