@@ -70,10 +70,9 @@ service:
        the exercises are simple.
       After: 30 days 》BEFORE/AFTER effect.
     highlighted: false
-  - title: UX Design
+  - title: 5 minutes a day
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: every day
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
