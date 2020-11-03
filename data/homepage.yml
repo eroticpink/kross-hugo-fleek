@@ -25,7 +25,7 @@ skill:
   - title: MIRROR
     progress: 100%
     color: "#9473e6"
-  - title: 5 MINUTES
+  - title: 5 minutes
     progress: 80%
     color: "#bdecf6"
 experience:
