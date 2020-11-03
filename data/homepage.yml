@@ -68,13 +68,13 @@ service:
     icon: ti-palette
     content: |2-
 
-      After: 30 days BEFORE/AFTER effect*
+      theory, exercise instructions and workouts
     highlighted: false
   - title: 5 minutes a day
     icon: ti-vector
     content: every day
     highlighted: true
-  - title: Interaction Access
+  - title: Access
     icon: ti-panel
     content: you recieve a link in your email box
     highlighted: false
