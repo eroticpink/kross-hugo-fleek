@@ -6,7 +6,9 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-Are you looking for a **natural alternative** to botox or injectables?
+A **natural alternative** to botox or injectables.
+
+Lifetime knowledge.
 
 ## **F.A.Q.**
 
