@@ -67,8 +67,8 @@ service:
   - title: Duration 63 days
     icon: ti-palette
     content: |2-
-       the exercises are simple.
-      After: 30 days 》BEFORE/AFTER effect.
+
+      After: 30 days BEFORE/AFTER effect*
     highlighted: false
   - title: 5 minutes a day
     icon: ti-vector
