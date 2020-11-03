@@ -14,8 +14,8 @@ skill:
   enable: true
   title: YOU NEED
   item:
-  - title: DISIPLINE
-    progress: 50%
+  - title: TRAINING Tools
+    progress: 30%
     color: "#9373e8"
   - title: CLEAN FACE
     progress: 100%
