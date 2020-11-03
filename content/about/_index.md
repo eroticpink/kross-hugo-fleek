@@ -31,3 +31,5 @@ If clients have recently had injectables they must wait 4 weeks before starting 
 **WHAT IF I'VE RECENTY HAD FILLERS OR PEELS?**
 
 If clients have recently had any Fillers or Chemical Peels they must wait 4 weeks before starting any face exercises.
+
+![](/images/aging-static-website.png)
