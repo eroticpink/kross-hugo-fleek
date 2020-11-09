@@ -64,7 +64,7 @@ service:
   enable: true
   title: Online training
   item:
-  - title: Duration 63 days
+  - title: Duration 9 weeks
     icon: ti-palette
     content: |2-
 
