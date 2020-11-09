@@ -14,7 +14,7 @@ work_process:
     content: according to your needs
 team:
   enable: true
-  title: 'Daisy your Face WORKOUT Assistant '
+  title: Daisy
   team_member:
   - title: Daisy
     image: images/team/member-3.png
