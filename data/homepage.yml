@@ -14,7 +14,7 @@ skill:
   enable: true
   title: 'You need '
   item:
-  - title: 5 minutes
+  - title: 5 minutes a day
     progress: 80%
     color: "#bdecf6"
   - title: a clean face
