@@ -20,10 +20,10 @@ skill:
   - title: a clean face
     progress: 90%
     color: "#fdb157"
-  - title: right exercise
+  - title: the right exercises
     progress: 100%
     color: "#9373e8"
-  - title: mirror
+  - title: a mirror
     progress: 100%
     color: "#9473e6"
 experience:
