@@ -16,9 +16,9 @@ team:
   enable: true
   title: 'Daisy your Face WORKOUT Assistant '
   team_member:
-  - title: John Doe
+  - title: Daisy
     image: images/team/member-3.png
-    designation: Designer
+    designation: 'Face WORKOUT assistant '
 clients_logo_slider:
   enable: false
   title: My Clients
