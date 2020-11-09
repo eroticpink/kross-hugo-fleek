@@ -3,9 +3,9 @@ banner:
   title: FACE WORKOUT
 about:
   enable: true
-  content: "FACE WORKOUT: \nIs developed to train the face muscles and it suits any
-    age. The different face exercises give you a fresh appearance and a lifted face
-    while saving money on expensive beauty treatments."
+  content: "FACE WORKOUT: \nIs developed to train the face muscles. It suits any age.
+    The different face exercises give you a fresh appearance and a lifted face while
+    saving money on expensive beauty treatments."
   button:
     enable: true
     label: know more
