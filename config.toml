@@ -5,12 +5,12 @@ theme = "kross-hugo"
 title = "FACE WORKOUT"
 [[menu.main]]
 URL = "about"
-name = "About"
-weight = 2
+name = "F.A.Q."
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 2
 [params]
 address = "Online training ONLY"
 author = "Face Insights Academy"
