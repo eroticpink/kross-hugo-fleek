@@ -12,7 +12,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "Online training ONLY"
 author = "Face Insights Academy"
 copyright = "Copyright theme by hugo"
 description = "Look Younger "
@@ -20,7 +20,7 @@ email = "faceinsights@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/logo.png"
-phone = "000000"
+phone = "please fill in the contact form to contact us"
 theme_color = "#41228e"
 [params.contact]
 enable = true
