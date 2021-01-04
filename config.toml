@@ -20,7 +20,7 @@ email = "faceinsights@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/logo.png"
-phone = "please fill in the contact form to contact us"
+phone = "fill in the contact form"
 theme_color = "#41228e"
 [params.contact]
 enable = true
