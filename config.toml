@@ -24,7 +24,7 @@ phone = "fill in the contact form"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "Https://formspree.io/faceinsights@gmail.com"
+form_action = "https://formspree.io/faceinsights@gmail.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
