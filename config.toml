@@ -20,7 +20,7 @@ email = "nft.erotic.pink@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "/images/logo.png"
-phone = "fill in the contact form"
+phone = "only email"
 theme_color = "#41228e"
 [params.contact]
 enable = true
