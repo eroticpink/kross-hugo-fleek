@@ -17,7 +17,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: CARD TYPES
   item:
   - title: 1 copy minted
