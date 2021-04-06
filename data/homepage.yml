@@ -6,7 +6,7 @@ about:
   content: "Limited Edition Collection of 201 NFT Cards. \n\n"
   button:
     enable: true
-    label: know more
+    label: see more
     URL: about
 skill:
   enable: false
