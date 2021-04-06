@@ -8,8 +8,6 @@ author_signature: images/about/signature.png
 ---
 Start today with your NFT journey.
 
-L.
-
 ## **F.A.Q.**
 
 **What is a NFT?**
