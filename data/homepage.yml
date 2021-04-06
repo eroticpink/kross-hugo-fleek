@@ -20,7 +20,7 @@ skill:
   enable: true
   title: CARD TYPES
   item:
-  - title: 1 COPY
+  - title: 1 copy minted
     progress: 80%
     color: "#bdecf6"
   - title: 'special editions '
