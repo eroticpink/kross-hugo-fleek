@@ -43,5 +43,8 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
+URL = "<iframe src=\"https://opensea.io/collection/eroticpink\">"
+icon = ""
+[[params.social]]
 URL = "Https://www.instagram.com/nft_eroticpink"
 icon = "ti-instagram"
