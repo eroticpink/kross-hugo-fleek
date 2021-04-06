@@ -6,7 +6,7 @@ theme = "kross-hugo"
 title = "EROTIC PINK NFT"
 [[menu.main]]
 name = "BUY NFTs"
-url = "<iframe src=\"https://opensea.io/collection/eroticpink\">\""
+url = "https://opensea.io/collection/eroticpink"
 weight = 2
 [[menu.main]]
 URL = "contact"
