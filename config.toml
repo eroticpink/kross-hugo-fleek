@@ -4,10 +4,6 @@ relativeURLs = "true"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "EROTIC PINK NFT"
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [params]
 address = "THE BLOCKCHAIN"
 author = "Erotic Pink NFT"
