@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
-summaryLength = "10"
 relativeURLs = "true"
+summaryLength = "10"
 theme = "kross-hugo"
 title = "EROTIC PINK NFT"
 [[menu.main]]
@@ -43,9 +43,6 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "<iframe src=\"https://opensea.io/collection/eroticpink\">"
-icon = ""
 [[params.social]]
 URL = "Https://www.instagram.com/nft_eroticpink"
 icon = "ti-instagram"
