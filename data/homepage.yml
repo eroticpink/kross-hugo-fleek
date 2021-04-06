@@ -27,7 +27,7 @@ skill:
     progress: 90%
     color: "#fdb157"
   - title: multiple copies
-    progress: 100%
+    progress: 5%
     color: "#9373e8"
   - title: a mirror
     progress: 100%
