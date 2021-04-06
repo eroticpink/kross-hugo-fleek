@@ -29,9 +29,6 @@ skill:
   - title: multiple copies
     progress: 5%
     color: "#9373e8"
-  - title: a mirror
-    progress: 100%
-    color: "#9473e6"
 experience:
   enable: true
   title: '3 STEPS Approach '
