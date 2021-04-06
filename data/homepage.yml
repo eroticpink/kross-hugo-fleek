@@ -18,9 +18,9 @@ about:
     URL: about
 skill:
   enable: true
-  title: 'You need '
+  title: CARD TYPES
   item:
-  - title: 5 minutes a day
+  - title: 1 COPY
     progress: 80%
     color: "#bdecf6"
   - title: a clean face
