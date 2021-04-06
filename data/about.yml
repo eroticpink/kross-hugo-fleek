@@ -1,6 +1,6 @@
 ---
 work_process:
-  enable: true
+  enable: false
   title: How it works
   item:
   - title: Buy the online training
@@ -13,7 +13,7 @@ work_process:
     icon: images/icons/print.png
     content: according to your needs
 team:
-  enable: true
+  enable: false
   title: Daisy
   team_member:
   - title: Daisy
@@ -22,3 +22,4 @@ team:
 clients_logo_slider:
   enable: false
   title: My Clients
+  item: []
