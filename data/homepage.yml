@@ -56,7 +56,7 @@ education:
     year: "4"
     academy: New grow strategy 2022-2023
 service:
-  enable: true
+  enable: false
   title: Online training
   item:
   - title: Duration 9 weeks
